@@ -1,0 +1,8 @@
+This outlines how the program functions:
+
+--------------------------------------------
+Server Config file: - File: serverConfig.txt
+-- Layout --
+1st: Device IP
+2nd: # Destination Adresses
+3rd -> 3rd + 2nd Number - Robot Adresses 
