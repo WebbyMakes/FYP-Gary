@@ -6,3 +6,4 @@ Server Config file: - File: serverConfig.txt
 1st: Device IP
 2nd: # Destination Adresses
 3rd -> 3rd + 2nd Number - Robot Adresses 
+4rd -> TBC
